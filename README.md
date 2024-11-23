@@ -3,8 +3,6 @@
   <b>Haaah!</b>
 </h1>
 
-<img style="width:100%;height:3px;" src="./bar.gif" />
-
 ### Hey, I'm Munish 👋
 
 I'm a 24 year old full-stack developer
@@ -15,3 +13,5 @@ I like to say that I am a full-stack developer. The past few years I have been f
 ## Contact
 For a fast response, please DM me on Twitter: [@msg](https://twitter.com/direct_messages/create/munishmummadi) 
 Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/munishmummadi) 
+
+<img style="width:100%;height:3px;" src="./bar.gif" />

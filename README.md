@@ -1,5 +1,10 @@
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
+<h1 align='center'>
+  <img src="./dancin.gif" alt="dancin" width="30"/>
+  <b>Yo wut up.</b>
+</h1>
+
 ### Hey, I'm Munish 👋
 
 I'm a 24 year old full-stack developer

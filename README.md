@@ -7,7 +7,7 @@
 
 I'm a full-stack developer
 ## Current
-Doing my master's in Information Systems
+Doing my Master's in Information Systems
 ## Experience
 I like to say that I am a full-stack developer. The past few years I have been focusing a lot more on backend development, primarily using [Python](https://www.python.org/) & [Golang](https://go.dev/).
 ## Contact

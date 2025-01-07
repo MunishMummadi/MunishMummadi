@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <img src="./dancin.gif" alt="dancin" width="60"/>
+  <img src="./dancin.gif" alt="dancin" width="50"/>
   <b>Haaah!</b>
 </h1>
 

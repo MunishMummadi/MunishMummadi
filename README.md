@@ -11,7 +11,7 @@ I'm a full-stack developer
 - 🌐 Doing my Master's in Information Systems and working as a SWE intern at [Redvest](https://www.redvest.app/)
 
 ## Experience
-I like to say that I am a full-stack developer. The past few years I have been focusing a lot more on backend development, primarily using [Python](https://www.python.org/) & [Golang](https://go.dev/).
+I like to say that I am a full-stack developer. The past few years I have been focusing a lot more on backend development, primarily using [Golang](https://go.dev/) & [Python](https://www.python.org/).
 
 ## Contact
 For a fast response, please DM me on Twitter: [@msg](https://twitter.com/direct_messages/create/munishmummadi). Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/munishmummadi).

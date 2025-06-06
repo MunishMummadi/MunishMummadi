@@ -8,7 +8,7 @@
 I'm a full-stack developer
 
 ## Current
-- 🌐 Doing my Master's in Information Systems and looking for internship and full time opportunities.
+- Unemployed and looking for a job to eat....
 
 ## Experience
 I like to say that I am a full-stack developer. The past few years I have been focusing a lot more on backend development, primarily using [Golang](https://go.dev/) & [Python](https://www.python.org/).

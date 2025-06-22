@@ -8,7 +8,7 @@
 I'm a full-stack developer
 
 ## Current
-- Unemployed and looking for a job to eat....
+- swe@rocketmorgage
 
 ## Experience
 I like to say that I am a full-stack developer. The past few years I have been focusing a lot more on backend development, primarily using [Golang](https://go.dev/) & [Python](https://www.python.org/).

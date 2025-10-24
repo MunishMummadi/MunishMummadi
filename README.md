@@ -5,7 +5,7 @@
 
 ### Hey, I'm Munish 👋
 
-I'm a full-stack developer with prime focus on frontend.
+I'm a full-stack developer with prime focus on backend.
 
 ## Current
 - swe@rocketmorgage
